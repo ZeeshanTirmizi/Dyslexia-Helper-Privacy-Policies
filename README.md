@@ -3,27 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy - Dyslexia Helper</title>
-
-  <style>
-    body {
-      font-family: Arial, Verdana, sans-serif;
-      background-color: #fcfaf2;
-      color: #333333;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2rem;
-    }
-
-    h1 {
-      color: #333333;
-    }
-
-    p {
-      font-size: 1rem;
-    }
-  </style>
+ 
 </head>
 
 <body>
